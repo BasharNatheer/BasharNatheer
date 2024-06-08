@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BasharNatheer
 - 👀 I’m interested in sharing java codes and projects.
 - 🌱 I’m currently learning java fundamentals.
-- 📫 How to reach me on telegram @Bashar2022
+- 📫 How to reach me on telegram @BasharSE2022
 - 😄 Pronouns: He/his.
 
 <!---
